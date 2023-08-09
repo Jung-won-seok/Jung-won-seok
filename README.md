@@ -1,4 +1,4 @@
-### Hi there 👋![header](https://capsule-render.vercel.app/api?type=Waving)
+### Hi there 👋![header](https://capsule-render.vercel.app/api?type=Waving&text=wellcom&color=_#8A2BE2)
 
 <!--
 **Jung-won-seok/Jung-won-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
