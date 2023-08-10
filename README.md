@@ -1,12 +1,6 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=wellcom&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
-<div align="center">
-  💬SNS list💬
-</div>
 
-<div align="center">
-  <a href="https://velog.io/@ukksj0621" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>&nbsp; <a href="https://www.instagram.com/weonseog4652/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>&nbsp; <a href="https://www.facebook.com/profile.php?id=100006824229895" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-</div>
-<br/>
+
 <div align="center">
 🖥Tech Stack🖥
 </div>
