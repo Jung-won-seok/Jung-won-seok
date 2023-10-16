@@ -5,7 +5,7 @@
 🖥Tech Stack🖥
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=openjdk&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp;  <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=openjdk&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=white"/>
 </div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-won-seok&show_icons=true&theme=vue)
