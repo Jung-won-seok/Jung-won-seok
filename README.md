@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help when it can't be solved<br>
 - 💬 Place high value on communication<br>
 
-.center {
+.right {
   display: block;
   margin: auto;
 }
