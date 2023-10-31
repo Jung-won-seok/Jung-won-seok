@@ -1,16 +1,10 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
-<div style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;">
-첫번째 영역:
-왼쪽에 위치시킴 =>  float:left
-오른쪽에 바깥여백을 줌 =>  margin-right:10px;
-여기에 그림이나 글자 또는 광고 등을 넣음
+<div style="border: 1px dotted red;">
+<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" style="vertical-align:middle;" >
+  <span style="margin-top:20px;font-size:18px;" >아이디망고 - IDMANGO</span>
 </div>
-<div style="width:200px; height:150px; border:1px solid green; float:left;">
-두번째 영역:
-첫번째 영역 옆에 나란히 붙임 => float:left
-여기에 그림이나 글자 또는 광고 등을 넣음
-</div>
+
 
 
 
