@@ -1,12 +1,12 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcom&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
 
-<div align="center">
+
 🖥Tech Stack🖥
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=openjdk&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp;  <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=white"/>&nbsp;
-<div align="center">
+
 ⚒Tool⚒
 </div>
 <div align="center">
