@@ -2,14 +2,13 @@
 
 ## 😀About me
 - 🔭 I’m a college student now<br>
-<p align="right">
-<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100">
 - 🌱 I’m currently learning spring and database<br>
 - 👯 I’m looking to collaborate on [capstone projec](https://www.notion.so/HMAC-message-integrity-SW-ccf379f7db974e1e890d420e00a7aa23) and [study group]()<br>
 - 🤔 I’m looking for help when it can't be solved<br>
 - 💬 Place high value on communication<br>
 
-
+<p align="right">
+<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100">
 
 <div align="center">
  
