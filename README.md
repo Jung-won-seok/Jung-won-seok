@@ -7,6 +7,8 @@
 - 🤔 I’m looking for help when it can't be solved<br>
 - 💬 Place high value on communication<br>
 
+![title](https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp)
+
 
 <div align="center">
  
