@@ -10,7 +10,7 @@
 ⚒Tool⚒
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Visual studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Eclipse IDEcode-2C2255?style=flat&logo=eclipseide&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Intellij IDE-#000000?style=flat&logo=intellijidea&logoColor=white"/>&nbsp
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-won-seok&show_icons=true&theme=vue)
