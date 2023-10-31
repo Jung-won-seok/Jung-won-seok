@@ -1,13 +1,5 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
-<div style="border: 1px dotted red;">
-<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" style="vertical-align:middle;" >
-  <span style="margin-top:20px;font-size:18px;" >아이디망고 - IDMANGO</span>
-</div>
-
-
-
-
 ## 😀About me
 - 🔭 I’m a college student now<br>
 - 🌱 I’m currently learning spring and database<br>
