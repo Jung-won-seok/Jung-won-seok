@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=Waving&text=wellcom&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
+### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcom&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
 
 <div align="center">
