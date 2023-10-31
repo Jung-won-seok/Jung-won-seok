@@ -7,12 +7,8 @@
 - 🤔 I’m looking for help when it can't be solved<br>
 - 💬 Place high value on communication<br>
 
-.right {
-  display: block;
-  margin: auto;
-}
-
-<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100"></right>
+<p align="center">
+<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100">
 
 
 <div align="center">
