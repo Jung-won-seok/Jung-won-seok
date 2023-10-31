@@ -1,22 +1,29 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
-<div>
-    <div>
-        <p align="right">
-        <img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100">  
-    </div>
-    <div>
-        ## 😀About me
-- 🔭 I’m a college student now<br>
-- 🌱 I’m currently learning spring and database<br>
-- 👯 I’m looking to collaborate on [capstone projec]and [study group]()<br>
-- 🤔 I’m looking for help when it can't be solved<br>
-- 💬 Place high value on communication<br>
-    </div>
+<div style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;">
+첫번째 영역:
+왼쪽에 위치시킴 =>  float:left
+오른쪽에 바깥여백을 줌 =>  margin-right:10px;
+여기에 그림이나 글자 또는 광고 등을 넣음
+</div>
+<div style="width:200px; height:150px; border:1px solid green; float:left;">
+두번째 영역:
+첫번째 영역 옆에 나란히 붙임 => float:left
+여기에 그림이나 글자 또는 광고 등을 넣음
 </div>
 
 
 
+## 😀About me
+- 🔭 I’m a college student now<br>
+- 🌱 I’m currently learning spring and database<br>
+- 👯 I’m looking to collaborate on [capstone project](https://www.notion.so/HMAC-message-integrity-SW-ccf379f7db974e1e890d420e00a7aa23) and [study group]()<br>
+- 🤔 I’m looking for help when it can't be solved<br>
+- 💬 Place high value on communication<br>
+
+<p align="right">
+<img src="https://i.namu.wiki/i/1OgQfusyxvTYr6HcoYzN9NZD1sUG85_8_pKNN9uhCqdAJ8MpedtjeQgvY7MNjzs2PnQ1GvqVDJwaiot8C5ELeQ.webp" width="300" height="100">
+<figure class="half">
 
  
 <div align="center">
