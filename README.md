@@ -1,6 +1,6 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
-## 😀About me
+## 😀 About me
 - 🔭 I’m a college student now<br>
 - 🌱 I’m currently learning spring and database<br>
 - 🙌 I’m looking to collaborate on [capstone project](https://www.notion.so/HMAC-message-integrity-SW-ccf379f7db974e1e890d420e00a7aa23) and [study group](https://www.notion.so/Algorithm-Beginner-e2b63e5b32b4422793e3bc44b70c3c16)<br>
