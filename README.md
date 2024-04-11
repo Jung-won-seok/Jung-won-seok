@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=3CB371&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
+### ![header](https://capsule-render.vercel.app/api?type=Waving&text=welcome&color=2E8B57&fontColor=ffffff&fontAlignY=35&fontSize=60&height=150)
 
 ## 😀 About me
 - 🔭 I’m a college student now<br>
