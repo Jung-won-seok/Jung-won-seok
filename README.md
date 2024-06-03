@@ -15,7 +15,7 @@
  
 <div align="center">
  
-## 🖥Tech Stack🖥
+## 🖥Tech List🖥
 <div align="center">
  
 </div>
